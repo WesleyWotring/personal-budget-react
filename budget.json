@@ -1,0 +1,33 @@
+[
+      {
+          "title" : "Eat out", 
+          "budget" : 25
+      },
+      {
+          "title" : "Rent", 
+          "budget" : 469
+      },
+      {
+          "title" : "Grocery", 
+          "budget": 110
+      },
+      {
+          "title": "Gas", 
+          "budget": 45
+      },
+      {
+          "title": "Car payment", 
+          "budget": 391
+      },
+      {
+          "title": "Car insurance", 
+          "budget": 119
+      },
+      {
+          "title": "Internet", 
+          "budget": 50
+      }
+      
+  ]
+  
+  

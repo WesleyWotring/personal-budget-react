@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 
 import {
   BrowserRouter as Router,
@@ -14,7 +14,7 @@ import Hero from './Hero/Hero';
 import HomePage from './HomePage/HomePage';
 import AboutPage from './AboutPage/AboutPage';
 import LoginPage from './LoginPage/LoginPage';
-
+import axios from 'axios';
 
 function App() {
   return (
